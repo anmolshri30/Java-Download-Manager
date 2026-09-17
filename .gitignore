@@ -1,0 +1,22 @@
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+
+# JDM temporary download & metadata files
+*.jdm
+*.part
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
